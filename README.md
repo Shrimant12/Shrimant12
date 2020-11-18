@@ -34,7 +34,7 @@
 <br />
 
 ---
-[twitter]: hhttps://twitter.com/Smshrimant
+[twitter]: hhttps://twitter.com/Smshrimant/
 [linkedin]: https://www.linkedin.com/in/shrimant-more-30622980/
 [instagram]: https://www.instagram.com/smshrimant/?hl=en
 
