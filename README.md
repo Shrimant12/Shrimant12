@@ -11,7 +11,7 @@
 ### PenTester
 ### Bug Bounty Hunter 
 ### Speaker
-### Developer and 
+### Open Source Automation Tool Developer and 
 ### Inline Skater!!
 
 - 🔭 I just launched my first automation tool: POC - De (POC - दे)
